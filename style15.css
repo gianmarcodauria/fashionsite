@@ -1,0 +1,187 @@
+@media only screen and (min-width: 600px) {
+
+#container {
+
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='199' viewBox='0 0 100 199'%3E%3Cg fill='%2397c2b6' fill-opacity='0.32'%3E%3Cpath d='M0 199V0h1v1.99L100 199h-1.12L1 4.22V199H0zM100 2h-.12l-1-2H100v2z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+    font-size: 1.5em;
+}
+
+
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+
+  }
+
+#titoloh1 {
+
+    text-align: center;
+
+
+
+
+
+}
+
+#titoloh3 {
+
+    text-align: center;
+
+
+
+}
+
+#titolofooter {
+
+    text-align: center;
+}
+
+.navbar-brand {
+
+    padding-left: 1%;
+}
+
+#foto img {
+
+    display: none;
+}
+
+#moda1 {
+
+
+    max-width: 100%;
+    
+}
+
+#moda2 {
+
+    max-width: 72%;
+    
+
+
+}
+
+#moda3 {
+
+    max-width: 100%;
+    
+}
+
+}
+
+#pagination {
+
+    text-align: left;
+    
+
+
+
+}
+
+#logo {
+
+
+    width: 10%;
+    display: wrap;
+    
+}
+
+.img-centrata {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+    #container {
+
+        background-color: #f3f3f3;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='199' viewBox='0 0 100 199'%3E%3Cg fill='%2397c2b6' fill-opacity='0.32'%3E%3Cpath d='M0 199V0h1v1.99L100 199h-1.12L1 4.22V199H0zM100 2h-.12l-1-2H100v2z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");   
+        padding-top: 3%;
+        
+    }
+
+    #container img {
+
+        display: none;
+
+    }
+
+    .navbar-brand {
+
+        padding-left: 1%;
+    }
+
+    #titoloh1 {
+
+        text-align: center;
+    
+    
+    }
+
+    #titoloh3 {
+
+        text-align: center;
+        padding-top: 15%;
+    
+    
+    
+    }
+
+    #foto img {
+
+        max-width: 100%;
+        display: block;
+    }
+
+    #titolofooter {
+
+        text-align: center;
+
+
+    }
+
+    #pagination {
+
+        text-align: left;
+        padding-top: 2%;
+        
+    
+    
+    
+    }
+    
+    #logo {
+    
+    
+        width: 30%;
+        display: inline;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+        
+    }
+
+    
+
+        
+    
+    
+    
+
+}
